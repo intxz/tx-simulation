@@ -1,0 +1,12 @@
+# Ignore .vscode directory
+.vscode
+
+# Ignore any temporary files
+*.log
+*.tmp
+
+# Ignore other potentially unwanted directories or files
+__pycache__/
+*.pyc
+.DS_Store
+.git
